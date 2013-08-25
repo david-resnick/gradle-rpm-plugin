@@ -4,7 +4,7 @@ apply plugin: 'nexus'
 apply plugin: 'idea'
 
 group = 'com.trigonic'
-version = '1.4-SNAPSHOT-gradle-1.7-support'
+version = '1.4-gradle-1.7-support'
 
 buildscript {
     repositories {
